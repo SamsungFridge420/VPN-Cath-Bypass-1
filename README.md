@@ -42,6 +42,7 @@ Note this may not be permamently avalible.
  install the config on whichever GUI u decided on, and enter the user and password required for the config.
 
 user: SOWoouLkbWurxsve
+
 password: 4Q15sWANPbRJBBHh4a33dK46Cz1jjshu
 
 
