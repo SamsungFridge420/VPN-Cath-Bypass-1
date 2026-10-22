@@ -1,4 +1,4 @@
-# **VPN-Cath-Bypass-1 (VPN)**
+# **VPN-Cath-Bypass-2 (VPN)**
  **INSTRUCTIONS**
 
 **Note that i am currently attempting to make a script that will automatically run and do all this - untill then do it manually**
