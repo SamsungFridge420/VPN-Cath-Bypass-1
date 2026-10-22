@@ -8,6 +8,11 @@
 This vpn was made and editted based on other openvpn files - 
 
 
+
+
+ ## **SECOND VERSION OF THIS IS NOW UPDATED, PORT 443 AND MTU 1400 CHANGES MADE - REDOWNLOAD TO GET WOKRING**
+
+
 ## 1.
 
  You will need a service to run the VPN config, if you just want basic access. This is a list of services i would suggest:
