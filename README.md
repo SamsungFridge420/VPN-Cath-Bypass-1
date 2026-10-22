@@ -1,7 +1,7 @@
 # **VPN-Cath-Bypass-2.1(VPN)**
+# *WHENEVER THE VPN STOPS WORKING, COME HERE AND REDOWNLOAD THE VPN FILE AND RECONFIG IT*
  **INSTRUCTIONS**
 
-# **WHENEVER THE VPN STOPS WORKING, COME HERE AND REDOWNLOAD THE VPN FILE AND RECONFIG IT**
 **Note that i am currently attempting to make a script that will automatically run and do all this - untill then do it manually**
 
 **If your not techy or cant figure it out, just give this entire thing to claude or chatgpt and it should be able to help**
